@@ -10,6 +10,7 @@ This program reads two images, takes 4 pairs of correspondences from the user be
 This tool is based on projective warps including all of the affine and perspective warps. This tool will provide for input of correspondences between the two input images, will compute the homography matrix using the 4 pairs of correspondences, and finally apply the transform to the second input image via inverse mapping and then stitch it with the first input image.
 
 It does all of the following:
+
 * Read two input images from two image files at a time.
 * Accept 4 pairs of correspondences from the user mapping points from one input image to another.
 * Compute homography matrix using the 4 pairs of correspondences.
