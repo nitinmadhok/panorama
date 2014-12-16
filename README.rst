@@ -60,5 +60,4 @@ Author
 ======
 
 Name: Nitin Madhok
-
 Email: nmadhok@clemson.edu
