@@ -58,7 +58,7 @@ Mouse Features
 Left click to select/draw a point on the window. Maximum 4 points per window can be selected. 
 Order of point color: red, blue, green, yellow
 
-Input
+Sample Input Images
 =====
 
 |image1| |image2| |image3|
@@ -71,15 +71,13 @@ Input
     
 .. |image3| image:: https://github.com/nitinmadhok/panorama/blob/master/Input/7.jpg
     :alt: Third Input Image
-    :width: 10pt
-    :height: 10pt
 
-Generated Panorama
-==================
+Generated Panorama from Sample Input Images
+===========================================
 
 .. image:: https://github.com/nitinmadhok/panorama/blob/master/Output/panorama_5-6-7.png
     :alt: Generated Panorama
-    :align: left
+    :align: center
 
 Author
 ======
