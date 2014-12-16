@@ -1,3 +1,8 @@
+# Mac .DS_Store
+.DS_Store
+Input/.DS_Store
+Output/.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo
