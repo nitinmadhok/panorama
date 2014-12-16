@@ -62,4 +62,4 @@ Author
 | Name: `Nitin Madhok`__
 | Email: nmadhok@clemson.edu
 
-.. _Nitin Madhok: http://www.github.com/nmadhok
+.. _"Nitin Madhok": http://www.github.com/nmadhok
