@@ -59,7 +59,5 @@ Order of point color: red, blue, green, yellow
 Author
 ======
 
-| Name: `Nitin Madhok`__
+| Name: `Nitin Madhok<http://www.github.com/nmadhok>`_
 | Email: nmadhok@clemson.edu
-
-.. _"Nitin Madhok": http://www.github.com/nmadhok
