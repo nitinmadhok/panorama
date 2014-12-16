@@ -61,23 +61,18 @@ Order of point color: red, blue, green, yellow
 Input
 =====
 
-.. image:: https://github.com/nitinmadhok/panorama/blob/master/Input/5.jpg
+|image1| |image2| |image3|
+
+.. |image1| image:: https://github.com/nitinmadhok/panorama/blob/master/Input/5.jpg
     :alt: First Input Image
-    :width: 10
-    :height: 10
-    :align: left
     
-.. image:: https://github.com/nitinmadhok/panorama/blob/master/Input/6.jpg
+.. |image2| image:: https://github.com/nitinmadhok/panorama/blob/master/Input/6.jpg
     :alt: Second Input Image
-    :width: 10
-    :height: 10
-    :align: center
     
-.. image:: https://github.com/nitinmadhok/panorama/blob/master/Input/7.jpg
+.. |image3| image:: https://github.com/nitinmadhok/panorama/blob/master/Input/7.jpg
     :alt: Third Input Image
-    :width: 10
-    :height: 10
-    :align: right
+    :width: 10pt
+    :height: 10pt
 
 Generated Panorama
 ==================
