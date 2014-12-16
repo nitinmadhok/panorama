@@ -1,5 +1,5 @@
 /*
-Description:    Final Project: Program to create a panorama from two input images, write it using OpenImageIO and display it using OpenGL.
+Description:    Program to create a panorama from two input images, display it using OpenGL, optionally write it using OpenImageIO. 
 Name:           Nitin Madhok
 Date:           December 4, 2013
 Email:          nmadhok@clemson.edu

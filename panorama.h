@@ -1,5 +1,5 @@
 /*
-Description:    Header File containing a struct for pixel RGBA information, other variables used as well as function declaration.
+Description:    Header File containing structs for pixel RGBA information, other variables used as well as function declarations.
 Name:           Nitin Madhok
 Date:           December 4, 2013
 Email:          nmadhok@clemson.edu
