@@ -43,7 +43,9 @@ To compile, simply type 'make' on the command line and it would generate an exec
 Usage
 =====
 
-``./panorama input1.img input2.img [output.img]``
+```bash
+./panorama input1.img input2.img [output.img]
+```
 
 Keyboard Features
 =================
@@ -55,6 +57,17 @@ Mouse Features
 
 Left click to select/draw a point on the window. Maximum 4 points per window can be selected. 
 Order of point color: red, blue, green, yellow
+
+Input
+=====
+
+![Image 1](https://github.com/nitinmadhok/panorama/blob/master/Input/5.jpg "Input Image 1")
+![Image 2](https://github.com/nitinmadhok/panorama/blob/master/Input/6.jpg "Input Image 2")
+![Image 3](https://github.com/nitinmadhok/panorama/blob/master/Input/7.jpg "Input Image 3")
+
+Geerated Panorama
+=================
+![alt text](https://github.com/nitinmadhok/panorama/blob/master/Output/panorama_5-6-7.png "Generated Panorama")
 
 Author
 ======
